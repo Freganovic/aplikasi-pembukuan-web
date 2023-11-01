@@ -1,7 +1,20 @@
 ## Deskripsi Aplikasi 
 Source Code Aplikasi Penjualan Barang sederhana berbasis Website dengan PHP & MYSQL.
 
-## DONASI : <a href="https://saweria.co/fauzan1892">https://saweria.co/fauzan1892</a>
+
+Tampilan Login
+
+
+<img width="584" alt="Cuplikan layar 2023-11-01 142725" src="https://github.com/Freganovic/aplikasi-pembukuan-web/assets/69451514/29ce33de-2007-4d27-8d04-ea06cf95f764">
+
+
+
+Tampilan dasboard
+
+
+<img width="960" alt="Cuplikan layar 2023-11-01 142747" src="https://github.com/Freganovic/aplikasi-pembukuan-web/assets/69451514/dd1a1a63-d2cc-401a-af67-d77a0d286bd0">
+
+
 
 ### Source Blog : <a href="https://www.codekop.com/read/source-code-aplikasi-penjualan-barang-kasir-dengan-php-amp-mysql-gratis.html">https://www.codekop.com/read/source-code-aplikasi-penjualan-barang-kasir-dengan-php-amp-mysql-gratis.html</a>
 

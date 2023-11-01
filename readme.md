@@ -5,7 +5,8 @@ Source Code Aplikasi Penjualan Barang sederhana berbasis Website dengan PHP & MY
 Tampilan Login
 
 
-<img width="584" alt="Cuplikan layar 2023-11-01 142725" src="https://github.com/Freganovic/aplikasi-pembukuan-web/assets/69451514/29ce33de-2007-4d27-8d04-ea06cf95f764">
+<img width="960" alt="Cuplikan layar 2023-11-01 143102" src="https://github.com/Freganovic/aplikasi-pembukuan-web/assets/69451514/cf556537-2379-4c72-a65f-34b009fd0537">
+
 
 
 
@@ -32,54 +33,6 @@ Username : admin
 Password : 123
 <br>
 <span style="color:red">* Penggunaan Login untuk <b>single User</b> </span>
-
-## Contoh Program V2
-- Login
-<img src="https://raw.githubusercontent.com/fauzan1892/pos-kasir-php/master/assets/img/picv2/1.png">
-
-- Dashboard 
-<img src="https://raw.githubusercontent.com/fauzan1892/pos-kasir-php/master/assets/img/picv2/2.png">
-
-- Tabel Barang
-<img src="https://raw.githubusercontent.com/fauzan1892/pos-kasir-php/master/assets/img/picv2/3.png">
-
-- Kategori
-<img src="https://raw.githubusercontent.com/fauzan1892/pos-kasir-php/master/assets/img/picv2/4.png">
-
-- Keranjang / Transaksi
-<img src="https://raw.githubusercontent.com/fauzan1892/pos-kasir-php/master/assets/img/picv2/5.png">
-
-- Laporan 
-<img src="https://raw.githubusercontent.com/fauzan1892/pos-kasir-php/master/assets/img/picv2/6.png">
-
-- Nama Toko 
-<img src="https://raw.githubusercontent.com/fauzan1892/pos-kasir-php/master/assets/img/picv2/7.png">
-
-- Atur User 
-<img src="https://raw.githubusercontent.com/fauzan1892/pos-kasir-php/master/assets/img/picv2/8.png">
-
-## Contoh Program V1
-- Login
-<img src="https://raw.githubusercontent.com/fauzan1892/pos-kasir-php/master/assets/img/pic/login.png">
-
-- Dashboard 
-<img src="https://raw.githubusercontent.com/fauzan1892/pos-kasir-php/master/assets/img/pic/1.png">
-
-- Tabel Barang
-<img src="https://raw.githubusercontent.com/fauzan1892/pos-kasir-php/master/assets/img/pic/2.png">
-
-- Keranjang / Transaksi
-<img src="https://raw.githubusercontent.com/fauzan1892/pos-kasir-php/master/assets/img/pic/4.png">
-
-- Laporan 
-<img src="https://raw.githubusercontent.com/fauzan1892/pos-kasir-php/master/assets/img/pic/5.png">
-
-- Nama Toko 
-<img src="https://raw.githubusercontent.com/fauzan1892/pos-kasir-php/master/assets/img/pic/6.png">
-
-- Atur User 
-<img src="https://raw.githubusercontent.com/fauzan1892/pos-kasir-php/master/assets/img/pic/7.png">
-
 ## Changelog
 12 Desember 2022<br>
 - Update v2.0
